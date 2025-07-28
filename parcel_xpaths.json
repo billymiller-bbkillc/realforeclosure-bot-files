@@ -1,0 +1,118 @@
+{
+	"qpublic.schneidercorp.com": {
+		"owners": "//*[text()='Owner Information']/../../following-sibling::*[1]/div/*/*[not(self::strong)][1]",
+		"mail": "//*[text()='Owner Information']/../../following-sibling::*[1]/div/*/*[not(self::strong)][position()>1]"
+	},
+	"bakerpa.com": {
+		"owners": "//*[text()='Owner:']/following-sibling::*",
+		"mail": "//*[text()='Mailing Address:']/following-sibling::*"
+	},
+	"bcpa.net": {
+		"owners": "//*[normalize-space(text())='Property Owner']/../following-sibling::*",
+		"mail": "//*[normalize-space(text())='Mailing Address']/../following-sibling::*"
+	},
+	"ccappraiser.com": {
+		"owners": "",
+		"mail": "//*[text()='Owner:']/following-sibling::*[1]"
+	},
+	"citruspa.org": {
+		"owners": "//*[@id='All Owners']//tr[position()>1 and position()<last()]/td[1]",
+		"mail": "//*[@id='Mailing Address']//tr[position()>1 and position()<last()]/td[2]"
+	},
+	"paopropertysearch.coj.net": {
+		"owners": "//*[@id='ownerName']/h2",
+		"mail": "//*[@id='ownerName']/div"
+	},
+	"escpa.org": {
+		"owners": "//*[text()='Owners:']/following-sibling::*/*",
+		"mail": "//*[text()='Mail:']/following-sibling::*/*"
+	},
+	"hcpafl.org": {
+		"owners": "//*[text()='Mailing Address']/preceding-sibling::*",
+		"mail": "//*[text()='Mailing Address']/following-sibling::*"
+	},
+	"gis.hcpafl.org": {
+		"owners": "//*[@id='table-basic-results']/tbody/*/*[2]",
+		"mail": ""
+	},
+	"lakecopropappr.com": {
+		"owners": "//*[text()='Name:']/following-sibling::*[1]",
+		"mail": "//*[text()='Mailing Address:']/following-sibling::*[1]"
+	},
+	"leepa.org": {
+		"owners": "",
+		"mail": "//*[@id='divDisplayParcelOwner']/*[1]/*[1]/*[2]/*[1]"
+	},
+	"leonpa.org": {
+		"owners": "//*[normalize-space(text())='Owner(s):']/following-sibling::*",
+		"mail": "//*[normalize-space(text())='Mailing Address:']/following-sibling::*"
+	},
+	"manateepao.com": {
+		"owners": "//*[text()='Ownership:']/following-sibling::*",
+		"mail": "//*[text()='Mailing Address:']/following-sibling::*"
+	},
+	"pa.marion.fl.us": {
+		"owners": "",
+		"mail": "//*[text()='Property Information']/../following-sibling::*[1]//tr/td[1]"
+	},
+	"pa.martin.fl.us": {
+		"owners": "//*[text()='Property Owners']/..",
+		"mail": "//*[text()='Mailing Address']/.."
+	},
+	"miamidade.gov": {
+		"owners": "//*[text()='Owner']/../following-sibling::*[1]/*",
+		"mail": "//*[text()='Mailing Address']/../following-sibling::*[1]"
+	},
+	"maps.nassauflpa.com": {
+		"owners": "//*[@id='owner']",
+		"mail": "//*[contains(@id,'mail')]"
+	},
+	"ocpaweb.ocpafl.org": {
+		"owners": "//*[text()='Name(s):']/following-sibling::*[2]",
+		"mail": "//*[text()='Mailing Address On File:']/following-sibling::*[position()>1 and position()<last()]"
+	},
+	"pbcpao.gov": {
+		"owners": "//*[text()='Owner(s)']/../following-sibling::*/*[1]",
+		"mail": "//*[text()='Owner(s)']/../following-sibling::*/*[3]"
+	},
+	"search.pascopa.com": {
+		"owners": "",
+		"mail": "//*[@id='lblMailingAddress']"
+	},
+	"pcpao.gov": {
+		"owners": "//*[@id='owner_details']/label/*",
+		"mail": "//*[@id='mailling_add']"
+	},
+	"polkpa.org": {
+		"owners": "//*[@id='openOwner']/../../../following-sibling::*[1]/tbody/tr/td[1]",
+		"mail": "//*[text()='Mailing Address']/following-sibling::*[1]/tbody/tr/td[2]"
+	},
+	"apps.putnam-fl.com": {
+		"owners": "//*[normalize-space(text())='Owner:']/following-sibling::*[1]",
+		"mail": "//*[normalize-space(text())='Mailing Address:']/following-sibling::*[1]"
+	},
+	"srcpa.gov": {
+		"owners": "",
+		"mail": "//*[@id='owner']/table/tbody/tr/td[not(contains(@class,'fieldTitle'))]"
+	},
+	"sc-pa.com": {
+		"owners": "",
+		"mail": "//*[text()='Ownership:']/following-sibling::*[not(contains(@class,'app-links'))]"
+	},
+	"parceldetails.scpafl.org": {
+		"owners": "//*[text()='Owners']/following-sibling::*[1]/span[1]",
+		"mail": "//*[text()='Mailing']/following-sibling::*[1]/span[1]"
+	},
+	"paslc.org": {
+		"owners": "",
+		"mail": "//*[text()='Ownership'][ancestor::div[contains(@class, 'active')]]/../../following-sibling::*[1]/div"
+	},
+	"publicaccess.vcgov.org": {
+		"owners": "//*[text()='Owner(s):']/../following-sibling::*",
+		"mail": "//*[text()='Mailing Address On File:']/../following-sibling::*"
+	},
+	"vcpa.vcgov.org": {
+		"owners": "//*[text()='Owner(s):']/../following-sibling::*[1]",
+		"mail": "//*[text()='Mailing Address On File:']/../following-sibling::*[1]"
+	}
+}

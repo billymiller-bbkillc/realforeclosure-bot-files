@@ -1,0 +1,422 @@
+{
+    "themename": "awdark",
+    "start_date": "2024-04-22",
+    "end_date": "2024-04-24",
+    "counties": [
+        [
+            "72",
+            "Apache Taxdeed",
+            0
+        ],
+        [
+            "69",
+            "Coconino Taxdeed",
+            0
+        ],
+        [
+            "77",
+            "Mohave Taxdeed",
+            0
+        ],
+        [
+            "48",
+            "Denver Foreclosure",
+            0
+        ],
+        [
+            "82",
+            "Eagle Foreclosure",
+            0
+        ],
+        [
+            "106",
+            "El Paso Foreclosure",
+            1
+        ],
+        [
+            "100",
+            "Larimer Foreclosure",
+            0
+        ],
+        [
+            "97",
+            "Mesa Foreclosure",
+            0
+        ],
+        [
+            "93",
+            "Summit Foreclosure",
+            0
+        ],
+        [
+            "58",
+            "Alachua Foreclosure",
+            1
+        ],
+        [
+            "78",
+            "Alachua Taxdeed",
+            1
+        ],
+        [
+            "105",
+            "Baker Taxdeed",
+            0
+        ],
+        [
+            "13",
+            "Bay Foreclosure",
+            1
+        ],
+        [
+            "73",
+            "Bay Taxdeed",
+            1
+        ],
+        [
+            "29",
+            "Brevard Taxdeed",
+            0
+        ],
+        [
+            "17",
+            "Broward Foreclosure",
+            1
+        ],
+        [
+            "107",
+            "Calhoun",
+            0
+        ],
+        [
+            "3",
+            "Charlotte",
+            0
+        ],
+        [
+            "35",
+            "Citrus Foreclosure",
+            0
+        ],
+        [
+            "30",
+            "Citrus Taxdeed",
+            0
+        ],
+        [
+            "67",
+            "Clay Foreclosure",
+            0
+        ],
+        [
+            "68",
+            "Clay Taxdeed",
+            0
+        ],
+        [
+            "2",
+            "Duval Foreclosure",
+            1
+        ],
+        [
+            "32",
+            "Duval Tax Deed",
+            1
+        ],
+        [
+            "19",
+            "Escambia Foreclosure",
+            1
+        ],
+        [
+            "18",
+            "Escambia Taxdeed",
+            1
+        ],
+        [
+            "53",
+            "Flagler Foreclosure",
+            0
+        ],
+        [
+            "51",
+            "Flagler Taxdeed",
+            0
+        ],
+        [
+            "81",
+            "Gilchrist Foreclosure",
+            0
+        ],
+        [
+            "55",
+            "Gilchrist Taxdeed",
+            0
+        ],
+        [
+            "95",
+            "Gulf Foreclosure",
+            0
+        ],
+        [
+            "96",
+            "Gulf Taxdeed",
+            0
+        ],
+        [
+            "41",
+            "Hendry TaxDeed",
+            0
+        ],
+        [
+            "56",
+            "Hernando Taxdeed",
+            0
+        ],
+        [
+            "38",
+            "Hillsborough Foreclosure",
+            1
+        ],
+        [
+            "64",
+            "Hillsborough Taxdeed",
+            1
+        ],
+        [
+            "25",
+            "Indian River Foreclosure",
+            0
+        ],
+        [
+            "54",
+            "Indian River Taxdeed",
+            0
+        ],
+        [
+            "101",
+            "Jackson Foreclosure",
+            0
+        ],
+        [
+            "102",
+            "Jackson Taxdeed",
+            0
+        ],
+        [
+            "37",
+            "Lake Taxdeed",
+            1
+        ],
+        [
+            "8",
+            "Lee Foreclosure",
+            1
+        ],
+        [
+            "7",
+            "Lee Taxdeed",
+            1
+        ],
+        [
+            "44",
+            "Leon Foreclosure",
+            1
+        ],
+        [
+            "49",
+            "Leon Taxdeed",
+            1
+        ],
+        [
+            "1",
+            "Manatee",
+            0
+        ],
+        [
+            "42",
+            "Marion Foreclosure",
+            1
+        ],
+        [
+            "79",
+            "Marion Taxdeed",
+            1
+        ],
+        [
+            "26",
+            "Martin Foreclosure",
+            1
+        ],
+        [
+            "71",
+            "Martin Taxdeed",
+            1
+        ],
+        [
+            "15",
+            "Miami-Dade",
+            1
+        ],
+        [
+            "27",
+            "Nassau Foreclosure",
+            0
+        ],
+        [
+            "92",
+            "Nassau Taxdeed",
+            0
+        ],
+        [
+            "16",
+            "Okaloosa Foreclosure",
+            0
+        ],
+        [
+            "65",
+            "Okaloosa Taxdeed",
+            0
+        ],
+        [
+            "90",
+            "Okeechobee",
+            1
+        ],
+        [
+            "21",
+            "Orange Foreclosure",
+            1
+        ],
+        [
+            "22",
+            "Orange Taxdeed",
+            1
+        ],
+        [
+            "31",
+            "Osceola Taxdeed",
+            0
+        ],
+        [
+            "34",
+            "Palm Beach Foreclosure",
+            1
+        ],
+        [
+            "99",
+            "Palm Beach Taxdeed",
+            1
+        ],
+        [
+            "14",
+            "Pasco Foreclosure",
+            1
+        ],
+        [
+            "50",
+            "Pasco Taxdeed",
+            1
+        ],
+        [
+            "23",
+            "Pinellas Foreclosure",
+            1
+        ],
+        [
+            "24",
+            "Pinellas Taxdeed",
+            1
+        ],
+        [
+            "20",
+            "Polk Foreclosure",
+            1
+        ],
+        [
+            "28",
+            "Polk Taxdeed",
+            1
+        ],
+        [
+            "57",
+            "Putnam Foreclosure",
+            0
+        ],
+        [
+            "74",
+            "Putnam Taxdeed",
+            0
+        ],
+        [
+            "66",
+            "Saint Johns Foreclosure",
+            0
+        ],
+        [
+            "45",
+            "Santa Rosa Foreclosure",
+            0
+        ],
+        [
+            "52",
+            "Santa Rosa Taxdeed",
+            0
+        ],
+        [
+            "11",
+            "Sarasota Foreclosure",
+            1
+        ],
+        [
+            "70",
+            "Sarasota Taxdeed",
+            1
+        ],
+        [
+            "103",
+            "Seminole Foreclosure",
+            1
+        ],
+        [
+            "84",
+            "St. Lucie",
+            0
+        ],
+        [
+            "43",
+            "Volusia Foreclosure",
+            1
+        ],
+        [
+            "10",
+            "Volusia Taxdeed",
+            1
+        ],
+        [
+            "6",
+            "Walton",
+            0
+        ],
+        [
+            "108",
+            "Washington Foreclosure",
+            0
+        ],
+        [
+            "76",
+            "Washington Taxdeed",
+            0
+        ],
+        [
+            "109",
+            "Hardyston Foreclosure",
+            0
+        ],
+        [
+            "86",
+            "Newark",
+            0
+        ]
+    ]
+}
